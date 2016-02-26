@@ -1,0 +1,234 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	font-family: arial;
+	background-color: #ebebeb
+}
+
+#header
+{
+	background-color: black;
+	width: 100%;
+	height: 100px;
+}
+
+.container
+{
+	width: 900px;
+	height: auto;
+	margin: 0 auto;
+}
+
+#navArea
+{
+	height: 100px;
+	float: right;
+}
+
+#nav
+{
+	list-style: none;
+	margin-top: 30px;
+}
+
+#nav a
+{
+	color: white;
+	text-decoration: none;
+}
+
+#nav li
+{
+	float: left;
+	margin-left: 40px;
+	padding: 8px;
+	/*background-color: #008080;*/
+	border: 1px solid silver;
+	border-radius: 5px;
+}
+
+#nav li:hover
+{
+	background-color: #696969
+}
+
+#titleArea
+{
+	width: 300px;
+	height: 70px;
+	float: left;
+	color: white;
+	background-color: #008080;
+	font-style: italic;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+
+#titleArea a
+{
+	text-decoration: none;
+	color: white;
+}
+
+#navAbout {background-color: green}
+
+#navBooks {background-color: #039}
+
+#navMusic {background-color: #f03;}
+
+#navAnime {background-color: #f30;}
+
+#navKDramas {background-color: #609}
+
+
+
+/*main area*/
+	#mainArea
+	{
+		margin: 30px;
+	}
+	#title
+	{
+		text-decoration: underline;
+		margin-bottom: 10px;
+	}
+
+/*home page*/
+	#homeText
+	{
+		margin-bottom: 10px;
+	}
+
+/*about page*/
+	#aboutImg1
+	{
+		margin-bottom: 10px;
+	}
+
+/*books page*/
+	#bookTitle1
+	{
+		text-decoration: underline;
+		margin-bottom: 5px;
+	}
+	#bookList1
+	{
+		margin-bottom: 5px;
+	}
+	#bookImage1
+	{
+		margin-bottom: 10px;
+	}
+
+	#bookTitle2
+	{
+		text-decoration: underline;
+		margin-bottom: 5px;
+	}
+	#bookList2
+	{
+		margin-bottom: 5px;
+	}
+	#bookImage2
+	{
+		margin-bottom: 10px;
+	}
+
+	#bookTitle3
+	{
+		text-decoration: underline;
+		margin-bottom: 5px;
+	}
+	#bookList3
+	{
+		margin-bottom: 5px;
+	}
+
+/*music page*/
+	#musicTitle
+	{
+		text-decoration: underline;
+		margin-bottom: 10px;
+	}
+	#musicFirstList
+	{
+		margin-left: 30px;
+	}
+	#exoImg
+	{
+		margin-left: 40px;
+		margin-bottom: 20px;
+	}
+	#btsImg
+	{
+		margin-left: 40px;
+		margin-bottom: 20px;
+	}
+	#bigbangImg
+	{
+		margin-left: 40px;
+	}
+	#musicSecondaryList
+	{
+		margin-left: 60px;
+	}
+	#musicVideo
+	{
+		margin-left: 40px;
+	}
+
+/*anime page*/
+	#animeImg2
+	{
+		margin-bottom: 10px;
+	}
+	#animeImg3
+	{
+		margin-bottom: 10px;
+	}
+	#animeImg4
+	{
+		margin-bottom: 10px;
+	}
+	#animeImg5
+	{
+		margin-bottom: 10px;
+	}
+	#animeImg6
+	{
+		margin-bottom: 10px;
+	}
+
+/*kdramas page*/
+	#kdramasImg1
+	{
+		margin-bottom: 10px;
+	}
+	#kdramasImg2
+	{
+		margin-bottom: 10px;
+	}
+	#kdramasImg3
+	{
+		margin-bottom: 10px;
+	}
+	#kdramasImg4
+	{
+		margin-bottom: 10px;
+	}
+
+
+
+#footer
+{
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	color: white;
+	padding-top: 20px;
+}
